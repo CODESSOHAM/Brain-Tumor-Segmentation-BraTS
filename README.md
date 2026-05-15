@@ -67,15 +67,17 @@ pip install -r requirements.txt
 ```
 
 ### 3. Data Configuration
-
+```text
 ├── data/
 │   ├── train/
 │   │   ├── images/  # .nii.gz files (T1, T1ce, T2, FLAIR)
 │   │   └── masks/   # .nii.gz files (Segmentation Labels)
+```
 
 ## 4. Run Training
-
+```text
 python src/train.py
+```
 
 ## 📜 License
 
