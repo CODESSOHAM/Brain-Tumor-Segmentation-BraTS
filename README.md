@@ -36,7 +36,7 @@ This repository contains a professional implementation of a **3D U-Net** for aut
 │   └── detection-2018.ipynb  # Original research and exploration notebook
 ├── requirements.txt    # Project dependencies
 └── README.md           # Documentation
-
+```
 ---
 
 ## 📊 Dataset & Visuals
@@ -64,6 +64,7 @@ cd Brain-Tumor-Segmentation
 It is recommended to use a virtual environment or a Conda environment to keep your dependencies isolated.
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Data Configuration
 
